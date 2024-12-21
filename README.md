@@ -7,8 +7,11 @@ This project integrates market sentiment data different sources with historical 
 ### Sentiment Analysis
 
 NLTK-based text preprocessing
+
 Trained on 1.6M labeled tweets
+
 82% accuracy on test set
+
 5-day sentiment moving average
 
 ### LSTM Network
