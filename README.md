@@ -21,20 +21,29 @@ A simple 2 layer LSTM network
 ## Performance
 
 RMSE: 11.02
+
 MAE: 8.76
+
 Directional Accuracy: 56.4%
 
 ## Features
 
 Historical price data from Yahoo Finance
+
 Real-time Reddit sentiment analysis
+
 Support for major tech stocks (AAPL, AMZN, GOOG, MSFT)
+
 60-day lookback period
+
 Daily price predictions
 
 ## Limitations
 
 English-only sentiment analysis
+
 Daily close prices only
+
 Requires active social media presence
+
 Market efficiency assumption
